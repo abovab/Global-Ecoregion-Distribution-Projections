@@ -3,9 +3,6 @@ Projecting the Impact of Climate Change on Global Ecoregion Distributions
 
 Project uses historical monthly mean temperature and precipitation data and local elevation data to train random forest classifier in identifying ecoregions. Subsequent models applied to RFP projections (scenarios 2.6, 4.5, 6.2, and 8.5) to predict future ecoregion distribution through 2100 in addition to sea level rise.
 
-Binder Link:
-https://mybinder.org/v2/gh/abovab/TOOL1_FINAL_PROJECT/main?filepath=Eco_Predict.ipynb
-
 ####################################################################################################################################################################
 
 Data Sources:
